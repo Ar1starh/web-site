@@ -435,6 +435,9 @@ a:active {
 
 @media screen and (max-width: 390px) {
   /* Header */
+  .container {
+    width: auto;
+  }
 
   .header {
     flex-direction: column;
